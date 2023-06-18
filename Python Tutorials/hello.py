@@ -1,2 +1,1 @@
-print("Hello", "World", "I am a Developer", sep="--", end="-'ding-dong'-" )
-print("get out of my")
+print("This is a test file for object difination")
