@@ -1,0 +1,202 @@
+1. What is cricket?
+   Cricket is a bat-and-ball game played between two teams of eleven players each on a circular field with a rectangular 22-yard-long pitch in the center.
+2. How many players are there in a cricket team?
+   Each cricket team consists of eleven players.
+3. What are the main formats of cricket?
+   The main formats of cricket are Test cricket, One Day Internationals (ODIs), and Twenty20 Internationals (T20Is).
+4. What is Test cricket?
+   Test cricket is the longest format of cricket, played over a period of up to five days with each team having two innings.
+5. What are One Day Internationals (ODIs)?
+   ODIs are limited-overs cricket matches in which each team bats and bowls for a maximum of 50 overs.
+6. What are Twenty20 Internationals (T20Is)?
+   T20Is are the shortest format of international cricket, with each team playing a single innings that is restricted to a maximum of 20 overs.
+7. How is a cricket match structured?
+   A cricket match typically consists of innings where each team gets a chance to bat and bowl.
+8. What is a cricket pitch?
+   A cricket pitch is a rectangular area where the bowler delivers the ball to the batsman.
+9. How long is a cricket pitch?
+   A cricket pitch is 22 yards (20.12 meters) long.
+10. What is a cricket ball made of?
+    A cricket ball is traditionally made of leather, with a cork core and is stitched tightly.
+11. How many overs are there in a Test match?
+    There is no limit to the number of overs in a Test match.
+12. How many overs are there in a One Day International (ODI)?
+    Each team in an ODI gets to bowl a maximum of 50 overs.
+13. How many overs are there in a Twenty20 International (T20I)?
+    Each team in a T20I gets to bowl a maximum of 20 overs.
+14. What are the main roles in a cricket team?
+    The main roles in a cricket team include batsmen, bowlers, all-rounders, wicket-keepers, and fielders.
+15. What is the role of a batsman in cricket?
+    The primary role of a batsman is to score runs by hitting the ball delivered by the bowler.
+16. What is the role of a bowler in cricket?
+    The primary role of a bowler is to dismiss batsmen by delivering the ball in such a way that it hits the stumps or induces the batsman to make a mistake.
+17. What is the role of a wicket-keeper in cricket?
+    The wicket-keeper's role is to stand behind the stumps to catch balls that the batsman misses or to effect dismissals such as stumping and run-outs.
+18. What is the role of an all-rounder in cricket?
+    An all-rounder is a player who excels in both batting and bowling.
+19. What is a century in cricket?
+    A century is a milestone in cricket where a batsman scores 100 or more runs in a single innings.
+20. What is a hat-trick in cricket?
+    A hat-trick is when a bowler dismisses three batsmen with consecutive deliveries in the same match.
+21. What is the Duckworth-Lewis-Stern (DLS) method in cricket?
+    The Duckworth-Lewis-Stern method is a mathematical formula used to adjust targets in rain-affected limited-overs cricket matches.
+22. What is LBW in cricket?
+    LBW stands for Leg Before Wicket, which is a mode of dismissal where the batsman is given out if the ball would have hit the stumps but was obstructed by the batsman's body.
+23. What is a no-ball in cricket?
+    A no-ball is an illegal delivery in cricket, usually due to the bowler overstepping the crease or bowling a dangerous or unfair delivery.
+24. What is a wide in cricket?
+    A wide is an illegal delivery in cricket where the ball is bowled so far from the batsman that the umpire deems it unplayable.
+25. What is a run-out in cricket?
+    A run-out is a mode of dismissal in cricket where a batsman is out by the fielding team's action of hitting the stumps with the ball while the batsman is attempting to complete a run.
+26. What is the ICC in cricket?
+    The ICC, or the International Cricket Council, is the global governing body for cricket.
+27. What is the Ashes series in cricket?
+    The Ashes is a Test cricket series played between England and Australia.
+28. What is the Cricket World Cup?
+    The Cricket World Cup is the premier international championship of One Day International cricket.
+29. What is the IPL in cricket?
+    The IPL, or the Indian Premier League, is a professional Twenty20 cricket league in India.
+30. What is the difference between a draw and a tie in cricket?
+    A draw occurs when both teams do not complete their innings within the allocated time in Test cricket, whereas a tie occurs when the scores of both teams are equal at the end of a limited-overs match.
+31. What is a follow-on in cricket?
+    A follow-on is a situation in Test cricket where the team batting second is made to bat again immediately after the first innings if the team batting first has a substantial lead.
+32. What is a maiden over in cricket?
+    A maiden over is an over in which no runs are scored by the batting team, and no wickets are taken by the bowling team.
+33. What is a powerplay in cricket?
+    A powerplay is a period during limited-overs cricket matches where fielding restrictions are in place, allowing the batting team to score more freely.
+34. What is the Super Over in cricket?
+    The Super Over is a tie-breaking method used in limited-overs cricket matches, particularly in T20Is and ODIs, to determine the winner in case of a tie.
+35. What is a yorker in cricket?
+    A yorker is a delivery bowled by a fast bowler that pitches on or around the batsman's feet, making it difficult for the batsman to play an attacking shot.
+36. What is a bouncer in cricket?
+    A bouncer is a short-pitched delivery bowled by a fast bowler that rises sharply towards the batsman's head or body, often used as a tactic to intimidate or unsettle the batsman.
+37. What is the role of the third umpire in cricket?
+    The third umpire is an off-field official who assists the on-field umpires in making decisions related to run-outs, stumpings, boundary catches, and other close calls using television replays.
+38. What is a boundary in cricket?
+    A boundary in cricket refers to the outer perimeter of the playing field, and hitting the ball beyond this perimeter without it touching the ground results in scoring four runs (a "four") or six runs (a "six").
+39. What is the ICC World Test Championship?
+    The ICC World Test Championship is a league competition for Test cricket teams organized by the International Cricket Council to determine the best Test team in the world.
+40. What is the Duckworth-Lewis-Stern (DLS) method used for?
+    The Duckworth-Lewis-Stern (DLS) method is used to calculate revised targets in limited-overs cricket matches affected by rain or adverse weather conditions.
+41. What is the role of the captain in a cricket team?
+    The captain is the leader of the cricket team on the field, responsible for making tactical decisions, motivating players, and representing the team in interactions with match officials.
+42. What is a googly in cricket?
+    A googly is a type of delivery bowled by a leg-spin bowler that spins in the opposite direction to a conventional leg-spin delivery, often causing confusion for the batsman.
+43. What is a doosra in cricket?
+    A doosra is a delivery bowled by an off-spin bowler that spins in the opposite direction to a conventional off-spin delivery, designed to deceive the batsman.
+44. What is a nightwatchman in cricket?
+    A nightwatchman is a lower-order batsman sent in to bat towards the end of a day's play in Test cricket to protect more accomplished batsmen from facing the new ball under fading light.
+45. What is a sandshoe crusher in cricket?
+    A sandshoe crusher, also known as a toe-crusher or yorker, is a delivery bowled by a fast bowler that hits the batsman's toes, often causing discomfort or injury.
+46. What is the significance of the toss in cricket?
+    The toss is a method used to determine which team will bat first or bowl first in a cricket match, with the winning captain having the option to choose.
+47. What is the difference between a spinner and a fast bowler in cricket?
+    A spinner is a bowler who primarily relies on spinning the ball to deceive the batsman, while a fast bowler relies on pace and bounce to dismiss batsmen.
+48. What is the crease in cricket?
+    The crease is a line marked on the pitch to indicate the safe zone for batsmen when running between the wickets, as well as the area behind which the bowler must deliver the ball.
+49. What is the LBW law in cricket?
+    The LBW law in cricket states that a batsman can be given out if the ball would have hit the stumps but is obstructed by the batsman's body, provided certain conditions are met.
+50. What is the MCC in cricket?
+ 
+    The MCC, or the Marylebone Cricket Club, is a cricket club based in London that is responsible for setting the Laws of Cricket and promoting the spirit of cricket worldwide.
+51. What is the difference between a white ball and a red ball in cricket?
+    The white ball is used in limited-overs cricket matches such as ODIs and T20Is, while the red ball is traditionally used in Test matches.
+52. What is a hat-trick ball in cricket?
+    A hat-trick ball is the delivery bowled immediately after a bowler has taken wickets off three consecutive deliveries in the same match.
+53. What is the role of the umpire in cricket?
+    Umpires are responsible for enforcing the laws of cricket, making decisions on the field, and ensuring fair play during matches.
+54. What is the difference between a run and an overthrow in cricket?
+    A run is scored when the batsmen successfully cross each other while running between the wickets, while an overthrow occurs when the fielding team fails to prevent the batsmen from taking additional runs due to an errant throw.
+55. What is the Decision Review System (DRS) in cricket?
+    The Decision Review System is a technology-based system used to assist on-field umpires in making correct decisions by allowing teams to challenge certain umpiring decisions.
+56. What is the role of the match referee in cricket?
+    The match referee is appointed by the governing body to oversee the conduct of the match, ensure fair play, and address any disciplinary issues that may arise during the game.
+57. What is a dead ball in cricket?
+    A dead ball is a situation in cricket where play is temporarily suspended, typically due to the ball becoming lodged in the fielding equipment, a serious injury to a player, or the intervention of an external factor.
+58. What is a declaration in cricket?
+    A declaration is a tactical decision made by the batting team's captain to end their team's innings before all wickets are lost, often to set a target for the opposing team or to force a result in a Test match.
+59. What is a runner in cricket?
+    A runner is a substitute fielder who is allowed to run between the wickets on behalf of an injured batsman, subject to the approval of the umpires and the opposition captain.
+60. What is the difference between a leg-spinner and an off-spinner in cricket?
+    A leg-spinner is a bowler who spins the ball from the leg side to the off side, while an off-spinner spins the ball from the off side to the leg side.
+61. What is a century partnership in cricket?
+    A century partnership refers to a partnership between two batsmen that yields 100 or more runs in a single innings.
+62. What is a double century in cricket?
+    A double century is a milestone achieved by a batsman when they score 200 or more runs in a single innings.
+63. What is the role of the on-field umpires in cricket?
+    The on-field umpires are responsible for making decisions on the field, including judging whether the ball has been bowled legally, whether batsmen are out, and whether runs have been scored.
+64. What is a toss-up in cricket?
+    A toss-up is a delivery bowled by a spinner with a higher trajectory, designed to deceive the batsman by making it difficult to predict the flight and spin of the ball.
+65. What is the role of the fourth umpire in cricket?
+    The fourth umpire is responsible for assisting the match officials with administrative tasks, such as arranging player substitutions, overseeing equipment, and communicating with the teams' management.
+66. What is a googly in cricket?
+    A googly is a deceptive delivery bowled by a leg-spinner that spins in the opposite direction to their stock delivery, often catching the batsman off guard.
+67. What is a reverse sweep in cricket?
+    A reverse sweep is a batting shot played by a right-handed batsman (or left-handed batsman playing a mirror image shot) where the ball is swept from off side to leg side using a reverse grip on the bat handle.
+68. What is a golden duck in cricket?
+    A golden duck occurs when a batsman is dismissed for a duck (no runs) on the first ball they face in an innings.
+69. What is the role of the cricket coach?
+    The cricket coach is responsible for providing technical and tactical guidance to players, developing their skills, and formulating game strategies to improve team performance.
+70. What is a run chase in cricket?
+    A run chase refers to the batting team's attempt to score the runs required to win the match, typically in limited-overs cricket matches where there is a target set by the opposition.
+71. What is a cricket pitch report?
+    A cricket pitch report is an assessment of the playing surface prepared by experts before the match, providing information on factors such as pitch condition, grass cover, and moisture level, which can influence gameplay.
+72. What is the role of the cricket groundsman?
+    The cricket groundsman is responsible for preparing and maintaining the cricket pitch and outfield to ensure a fair playing surface for matches.
+73. What is a boundary catch in cricket?
+    A boundary catch refers to a fielder catching the ball within the playing area but with some part of their body in contact with or beyond the boundary line, resulting in the batsman being given out if the catch is clean.
+74. What is a cricket helmet used for?
+    A cricket helmet is protective headgear worn by batsmen and fielders close to the batsman to reduce the risk of head injury from fast-moving cricket balls.
+75. What is a cricket ball tampering incident?
+    A cricket ball tampering incident refers to the illegal alteration of the cricket ball's condition, such as roughing up one side or applying foreign substances, to gain an unfair advantage in swing or seam movement.
+76. What is the role of the cricket analyst?
+    The cricket analyst uses statistical analysis and video technology to provide insights into players' performance, opposition strategies, and match conditions, helping teams make informed decisions.
+77. What is a forward defensive shot in cricket?
+    A forward defensive shot is a batting stroke played by shifting the batsman's weight forward and presenting a straight bat to defend against a delivery bowled on or around the stumps.
+78. What is a cricket series?
+    A cricket series is a sequence of matches played between two or more teams over a defined period, often with a trophy or championship at stake.
+79. What is a close-in fielder in cricket?
+    A close-in fielder is a fielder positioned near the batsman, usually within 15 yards, to field attacking shots, attempt catches, or create pressure on the batsman.
+80. What is a cricket appeal?
+    A cricket appeal is a formal request made by the fielding team to the umpire, asking for a decision on whether the batsman is out, typically after a delivery that appears to warrant a dismissal.
+81. What is a cricket sledging?
+    Cricket sledging refers to the practice of verbally taunting or distracting opposing players in an attempt to unsettle their concentration and gain a psychological advantage during matches.
+82. What is a cricket hat-trick?
+    A cricket hat-trick occurs
+ when a bowler dismisses three batsmen with consecutive deliveries in the same match, a rare and notable achievement in the sport.
+83. What is a cricket maiden over?
+    A cricket maiden over is an over in which the bowler does not concede any runs to the batting team, a feat often celebrated for its tight and economical bowling.
+84. What is a cricket century?
+    A cricket century is a significant milestone achieved by a batsman when they score 100 or more runs in a single innings, regarded as a mark of batting excellence.
+85. What is a cricket debut?
+    A cricket debut refers to a player's first appearance in international or domestic cricket for their respective team, a memorable moment marking the beginning of their career at the highest level.
+86. What is a cricket LBW appeal?
+    A cricket LBW appeal occurs when the fielding team believes that the batsman is out leg before wicket, prompting the umpire to make a decision based on whether the ball would have gone on to hit the stumps.
+87. What is a cricket maiden century?
+    A cricket maiden century refers to a batsman's first-ever century scored in international or domestic cricket, a significant achievement often celebrated as a major milestone in their career.
+88. What is a cricket dot ball?
+    A cricket dot ball refers to a delivery bowled by the bowler that the batsman does not score any runs from, considered a success for the bowling team in preventing the opposition from accumulating runs.
+89. What is a cricket Yorker?
+    A cricket Yorker is a type of delivery bowled by a fast bowler that pitches on or around the batsman's toes, making it difficult to play attacking shots and often resulting in dismissals such as bowled or LBW.
+90. What is a cricket leg glance shot?
+    A cricket leg glance shot is a delicate batting stroke played by redirecting the ball towards the leg side with a slight touch of the bat, typically off deliveries bowled on the leg stump line.
+91. What is a cricket cover drive shot?
+    A cricket cover drive shot is an elegant batting stroke played by driving the ball with a straight bat towards the cover fielding region, often considered one of the most aesthetically pleasing shots in cricket.
+92. What is a cricket square cut shot?
+    A cricket square cut shot is an attacking batting stroke played by cutting the ball with a horizontal bat towards the point or backward point fielding positions, executed with precision timing and placement.
+93. What is a cricket pull shot?
+    A cricket pull shot is an aggressive batting stroke played by pulling the ball with a horizontal bat towards the leg side, often against short-pitched deliveries aimed at the batsman's body.
+94. What is a cricket sweep shot?
+    A cricket sweep shot is a risky batting stroke played by sweeping the ball with a horizontal bat towards the leg side, typically used to counter spin bowling but requiring skill and timing to execute effectively.
+95. What is a cricket reverse sweep shot?
+    A cricket reverse sweep shot is an unconventional batting stroke played by reversing the grip on the bat and sweeping the ball with a horizontal bat towards the off side, often surprising the fielding side but carrying a higher risk of dismissal.
+96. What is a cricket switch-hit shot?
+    A cricket switch-hit shot is an audacious batting stroke played by changing the batsman's stance and grip mid-delivery to switch-hit the ball with a horizontal bat towards the off side, a tactic popularized by modern-day batsmen to outfox the opposition.
+97. What is a cricket helicopter shot?
+    A cricket helicopter shot is an unorthodox batting stroke played by flicking the ball with a horizontal bat towards the leg side and following through with a full rotation of the bat resembling a helicopter blade, famously associated with former cricketer MS Dhoni.
+98. What is a cricket leg bye?
+    A cricket leg bye refers to the runs scored by the batting team when the ball deflects off the batsman's body or equipment, typically the pads, without making contact with the bat, and the batsmen complete a run or runs before the fielding team can retrieve the ball.
+99. What is a cricket bye?
+    A cricket bye refers to the runs scored by the batting team when the ball passes the batsman without making contact with the bat, typically due to a wicketkeeper's missed stumping or a fielder's failure to stop the ball, and the batsmen complete a run or runs before the fielding team can return the ball to the wicketkeeper.
+100. What is a cricket leg glance shot?
+    A cricket leg glance shot is a delicate batting stroke played by redirecting the ball towards the leg side with a slight touch of the bat, typically off deliveries bowled on the leg stump line.
