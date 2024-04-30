@@ -28,4 +28,4 @@ node_modules/
 vendor/
 
 # Ignore datasets directory
-0 # Python Tutorials/NLP/Datasets/
+Datasets/
